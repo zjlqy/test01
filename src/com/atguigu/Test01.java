@@ -9,6 +9,18 @@ public class Test01 {
 		System.out.println("01");
 		System.out.println("01");
 		System.out.println("01");
+		System.out.println("01");
+		System.out.println("01");
+		System.out.println("01");
+		System.out.println("01");
+		System.out.println("01");
+		System.out.println("01");
+		System.out.println("01");
+		System.out.println("01");
+		System.out.println("01");
+		System.out.println("01");
+		System.out.println("01");
+		System.out.println("01");
 		
 		
 		
